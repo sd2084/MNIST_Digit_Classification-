@@ -1,5 +1,5 @@
 # MNIST_Digit_Classification
-Introduction
+Introduction:
 Welcome to the MNIST Digit Classification project! This repository contains a simple image classification model built using the MNIST dataset of handwritten digits. The code is implemented in Python using TensorFlow and Keras.
 The goal of this project is to provide a basic example of image classification using a feedforward neural network. Users can understand how to load data, preprocess it, build a neural network, train the model, and evaluate its performance on the test set.
 
@@ -12,7 +12,7 @@ The script will perform the following steps:
 6. Train the Model: The model is trained on the training data and validated on the validation set for 10 epochs. A batch size of 128 is used for training.
 7. Evaluate the Model: Finally, the trained model is evaluated on the test set, and the test accuracy is printed.
    
-Opening the Code in Google Colab
+Opening the Code in Google Colab:
 1. To open and run the code in Google Colab, follow these steps:
 2. Go to the GitHub repository containing the code.
 3. Click on the .ipynb notebook file.
